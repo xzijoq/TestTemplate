@@ -10,6 +10,7 @@
 int main(int, char**)
 {
     print(okStyle,"ItWorks!!!!\n");
+    print(wStyle,"what the hell");
     return 0;
 }
 

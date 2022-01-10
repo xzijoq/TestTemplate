@@ -1,5 +1,9 @@
-need to install libgl-dev ,libglu1-mesa-dev 
+install :
+cmake
 ninja
-install sd2 on ubuntu
+conan
 
+
+install sd2 on ubuntu
+need to install libgl-dev ,libglu1-mesa-dev 
 sdl2?
